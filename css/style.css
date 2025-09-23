@@ -1,12 +1,13 @@
 body{
     margin: 0;
     font-family: Georgia, serif;
-    color: #F3DBB9;
+    color: #F1ECE6;
     background-color: #525C3A;
+    
 }
 
 header{
-    background: #F3DBB9;
+    background: #525C3A;
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
