@@ -11,8 +11,38 @@ body{
     background-color: #525C3A; 
 }
 
-.topbar{
+.topbar ul{
    background-color: #525C3A;
+   list-style: none;
+   display: flex;
+   justify-content: center;
    
 }
 
+.topbar a{
+    text-decoration: none;
+    color: #F1ECE6;
+    font-size: 30px;
+    padding: 2em;
+}
+
+.branding {
+    background-color: #F1ECE6;
+    height: 200px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+}
+
+.branding img{
+    height: 100px;
+}
+
+.tætpådk {
+    color: #525C3A;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
