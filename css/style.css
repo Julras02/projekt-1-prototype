@@ -1,15 +1,18 @@
-body{
+*{
     margin: 0;
-    font-family: Georgia, serif;
-    color: #F1ECE6;
-    background-color: #525C3A;
-    
+    padding: 0;
+    box-sizing: border-box;
 }
 
-header{
-    background: #525C3A;
-    padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
+body{
+    margin: 0;
+    font-family: Georgia, serif; /*Kan ikke lige finde marko one*/
+    color: #F1ECE6;
+    background-color: #525C3A; 
+}
+
+.topbar{
+   background-color: #525C3A;
+   
 }
 
